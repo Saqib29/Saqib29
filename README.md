@@ -28,10 +28,12 @@ My focus is writing clean, maintainable, and testable code while automating work
 ---
 
 ### 🔗 Connect with me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saqib.aminul29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://saqib-aminul.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/saqib29111/)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=saqib29&color=blue)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+GraphQL;Building+Scalable+APIs+with+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+GraphQL+%7C+PostgreSQL+%7C+CI/CD;Building+Scalable+APIs+with+AWS)](https://git.io/typing-svg)
