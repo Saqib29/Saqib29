@@ -1,17 +1,21 @@
 # Hi there 👋, I'm Aminul (Saqib)
 
-🚀 **Senior Backend Developer | Node.js | TypeScript | PostgreSQL | AWS**
+💻 Backend Developer | Node.js • TypeScript • GraphQL • AWS • PostgreSQL | Architecting scalable, cloud-native systems
 
-I'm passionate about building scalable backend systems, API design, and cloud-native solutions.
+👋 I'm **Aminul Islam Saqib**, a passionate **Backend Developer** who loves designing and building scalable, cloud-native applications.  
+I specialize in **Node.js**, **TypeScript**, **GraphQL**, and **PostgreSQL**, crafting efficient APIs and high-performance backend architectures.  
+
+I’ve contributed to **SaaS**, **CRM**, and **EdTech** platforms — optimizing database queries, integrating 3rd-party APIs, and developing event-driven microservices with **AWS Lambda**, **ECS**, **SQS**, and **SAM**.  
+My focus is writing clean, maintainable, and testable code while automating workflows using **Docker**, **CI/CD pipelines**, and **AWS services**.
+
 
 ---
 
 ### 🧠 About Me
-- 🔭 Currently working on: GraphQL + AWS Serverless projects  
-- 🌱 Learning: Advanced PostgreSQL & AWS SAM  
-- 💬 Ask me about: Node.js, NestJS, Prisma, Docker, CI/CD  
-- ⚙️ Tech Stack:  
-  `Node.js` · `TypeScript` · `PostgreSQL` · `Redis` · `AWS` · `Docker`
+- 🔭 Currently working on: **GraphQL APIs and AWS Serverless services (Lambda, SQS, SAM)**  
+- 🌱 Learning: **Advanced SQL optimization, system design, and distributed event-driven systems**  
+- 💬 Ask me about: **Node.js, NestJS, TypeScript, PostgreSQL, Docker, and CI/CD pipelines**  
+- ⚙️ Tech Stack: `Node.js` · `TypeScript` · `GraphQL` · `PostgreSQL` · `Redis` · `AWS` · `Docker` · `CI/CD`  
 
 ---
 
