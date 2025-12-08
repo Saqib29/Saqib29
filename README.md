@@ -59,17 +59,13 @@ I'm continuously expanding my skills to stay at the forefront of technology:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saqib29&color=blue)
 
-## 🏆 GitHub Stats
+### 📊 GitHub Stats
 
-<table>
-  <tr>
-   <td><img alt="Saqib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saqib29&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" /></td>
-   <td><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib29&langs_count=8&theme=tokyonight&layout=compact&hide_border=true"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib29&theme=tokyonight&hide_border=true"></td>
-  </tr>
-</table>
+![Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqib29&show_icons=true&theme=tokyonight)
+
+### 🏆 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqib29&layout=compact&theme=tokyonight)
 
 ---
 
