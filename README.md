@@ -61,7 +61,7 @@ I'm continuously expanding my skills to stay at the forefront of technology:
 
 ## 🏆 GitHub Stats
 
-<table style="display: flex; align-items: center; justify-content: center; width: 100%;">
+<table>
   <tr>
    <td><img alt="Saqib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saqib29&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" /></td>
    <td><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib29&langs_count=8&theme=tokyonight&layout=compact&hide_border=true"></td>
